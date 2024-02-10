@@ -383,3 +383,30 @@ h6 {
   border-radius: 197.5px;
   border: 16px solid var(--Yellow-main, #ffe550);
 }
+.subscribe-section {
+  display: flex;
+}
+.subscribe-title {
+  font-weight: 700;
+  font-size: 42px;
+  margin-bottom: 20px;
+}
+
+.subscribe-para {
+  font-weight: 400;
+  font-size: 16px;
+  margin-bottom: 24px;
+  width: 532px;
+}
+
+.subscribe-btn {
+  height: 42px;
+}
+.subscribe-email {
+  border: 0.85px solid yellow;
+  border-radius: 30px;
+  padding: 10px;
+  width: 394px;
+  height: 42px;
+  background: white;
+}
